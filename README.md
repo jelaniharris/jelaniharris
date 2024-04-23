@@ -16,7 +16,7 @@ After taking a year off, I've been trying to get back into Unreal Engine.
 
 ## Check out My Work / Personal Projects
 -  [Personal Website](https://jelaniharris.com) - My personal website where I usually post about issues and errors I run into to help someone else. Made in Gatsby and Bulma.
--  [Tower of Greed](https://tower-of-greed.vercelapp.com) - A 3d procedural-generated dungeon crawling game where you must get as high as possible without dying. Made in React, Next.JS, and Three.JS
+-  [Tower of Greed](https://tower-of-greed.vercel.app) - A 3d procedural-generated dungeon crawling game where you must get as high as possible and escape the dungeon without dying. Made in React, Next.JS, and Three.JS
 
 ## 📫 How to reach me
 - My email is my name together @ gmail.com
