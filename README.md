@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I am a passionate Full Stack Web Developer with 14 years of experience. I'm a fiction writer, and video game enthusiast, and indie game developer in my spare time.
+I am a passionate Full Stack Web Developer with 14 years of experience. I'm a fiction writer, and video game enthusiast, mediocre musician, and indie game developer in my spare time.
 
 ## 🔭 Currently Working on
 
@@ -23,8 +23,8 @@ After taking a year off, I've been trying to get back into Unreal Engine.
 
 ## 📫 How to reach me
 
-- My email is my name together @ gmail.com
-- [LinkedIn](https://linkedin.com/in/jelaniharris)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanobsidian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jelaniharris)
 
 ## 🛠️ Languages and Tools
 | Backend | Frontend | Cloud & CI | Software | Languages |
@@ -35,3 +35,5 @@ After taking a year off, I've been trying to get back into Unreal Engine.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jelaniharris&theme=merko)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)
+
+![](https://komarev.com/ghpvc/?username=jelaniharris)
