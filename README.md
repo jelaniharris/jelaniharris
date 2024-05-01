@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I am a passionate Full Stack Web Developer with 14 years of experience. I'm a fiction writer, and video game enthusiast, mediocre musician, and indie game developer in my spare time.
+I'm a passionate Full Stack Software Developer with 14 years of experience. In my spare time I'm also a fiction writer, and video game enthusiast, mediocre musician, and indie game developer.
 
 ## 🔭 Currently Working on
 
@@ -10,11 +10,11 @@ Currently, I'm a Software Engineer Consultant at the [Minnesota Star Tribune](ht
 
 ## 🌱 Currently Learning
 
-I'm working on getting better at NoSQL databases after having decades of relational database experience. I've dabbled in MongoDB and DynamoDB.
+I'm working on getting better at NoSQL databases after having decades of relational database experience. I'm fairly confident in my MongoDB and DynamoDB skills.
 
 I'm also trying to improve my mobile skills by learning React Native (again).
 
-After taking a year off, I've been trying to get back into Unreal Engine.
+After taking a year off, I've been trying to get back into Unreal Engine by developing a single mobile project.
 
 ## Check out My Work / Personal Projects
 
