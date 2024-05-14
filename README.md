@@ -14,7 +14,7 @@ I'm working on getting better at NoSQL databases after having decades of relatio
 
 I'm also trying to improve my mobile skills by learning React Native (again).
 
-After taking a year off, I've been trying to get back into Unreal Engine by developing a single mobile project.
+After taking a year off, I've been trying to get back into Unreal Engine by developing a mobile game that I hope to release sometime this year.
 
 ## Check out My Work / Personal Projects
 
