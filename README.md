@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm a passionate Full Stack Software Developer with 14 years of experience. In my spare time I'm also a fiction writer, and video game enthusiast, mediocre musician, and indie game developer.
+I'm a passionate Full Stack Software Developer with 15 years of experience. In my spare time I'm also a fiction writer, and video game enthusiast, mediocre musician, and indie game developer.
 
 ## 🔭 Currently Working on
 
